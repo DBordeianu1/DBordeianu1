@@ -1,5 +1,4 @@
 - Hi, I'm Daniela!
-- I'm seeking Summer 2026 Internships
 - Currently, I'm exploring **cloud engineering concepts** & **Kubernetes** through my **[CloudGarden](https://github.com/DBordeianu1/CloudGarden)** project
 - Here are **technologies/programming languages** that I've gotten to work with in my software development journey:
 
