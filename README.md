@@ -1,6 +1,6 @@
-- Hi! I'm Daniela, a third-year computer science student seeking Summer 2027 internships.
+- 👋 Hi! I'm Daniela, a third-year computer science student seeking Summer 2027 internships.
 - Currently, I'm...
-   - exploring cloud engineering concepts, CI/CD & Kubernetes through my <a href="https://github.com/DBordeianu1/CloudGarden" style="text-decoration: none;">CloudGarden</a> project;
-   - contributing to <a href="https://github.com/uOttawa-Makerspace/MakerSpaceRepo" style="text-decoration: none;">MakerRepo</a>, an open-source Ruby on Rails platform;
-   - iterating on my <a href="https://github.com/DBordeianu1/personal-site" style="text-decoration: none;">personal website</a>, including solving a storage optimization problem for the photography I feature on it.
+   - exploring cloud engineering concepts, CI/CD & Kubernetes through my [CloudGarden](https://github.com/DBordeianu1/CloudGarden) project;
+   - contributing to [MakerRepo](https://github.com/uOttawa-Makerspace/MakerSpaceRepo), an open-source Ruby on Rails platform;
+   - iterating on my [personal website](https://github.com/DBordeianu1/personal-site), including solving a storage optimization problem for the photography I feature on it.
 - Feel free to reach out! I'm open to collaborating.
